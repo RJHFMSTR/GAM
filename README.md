@@ -24,28 +24,29 @@ A full tutorial is available at [https://rjhfmstr.github.io/THORIN/docs/tutorial
 
 ## Citation
 
-If you use ```THORIN``` in your research work, please cite the following papers:
+- If you use ```THORIN``` in your research work, please cite the following papers:
 
-[Hofmeister, R.J. et al. Parent-of-Origin inference for biobanks. Nature Communication 2022. https://doi.org/10.1038/s41467-022-34383-6](https://www.nature.com/articles/s41467-022-34383-6)
+	[Hofmeister, R.J. et al. Parent-of-Origin inference for biobanks. Nature Communication 2022. https://doi.org/10.1038/s41467-022-34383-6](https://www.nature.com/articles/s41467-022-34383-6)
 
-[Hofmeister, R.J. et al. Parent-of-origin effects on complex traits in up to 236,781 individuals. Nature 2025. https://doi.org/10.1038/s41586-025-09357-5](https://www.nature.com/articles/s41586-025-09357-5)
+	[Hofmeister, R.J. et al. Parent-of-origin effects on complex traits in up to 236,781 individuals. Nature 2025. https://doi.org/10.1038/s41586-025-09357-5](https://www.nature.com/articles/s41586-025-09357-5)
 
 
-If you use our ```GAM pipeline```, please cite in addition the following preprint:
+- If you use our ```GAM pipeline```, please cite in addition the following preprint:
 
-[Hofmeister, R.J. et al. Parental haplotypes reconstruction in up to 440,209 individuals reveals recent assortative mating dynamics. BioRxiv 2025. https://doi.org/10.1101/2025.09.24.678243](https://www.biorxiv.org/content/10.1101/2025.09.24.678243v1)
+	[Hofmeister, R.J. et al. Parental haplotypes reconstruction in up to 440,209 individuals reveals recent assortative mating dynamics. BioRxiv 2025. https://doi.org/10.1101/2025.09.24.678243](https://www.biorxiv.org/content/10.1101/2025.09.24.678243v1)
 
 
 
 
 ## Documentation
 
-Documentation, installation instructions and tutorials for ```THORIN``` can be found at:
+- Documentation, installation instructions and tutorials for ```THORIN``` can be found at:
 
-[https://rjhfmstr.github.io/THORIN/](https://rjhfmstr.github.io/THORIN/)
+	[https://rjhfmstr.github.io/THORIN/](https://rjhfmstr.github.io/THORIN/)
 
 
-A detailed pipeline for the haplotype-based GAM estimation is available at [https://rjhfmstr.github.io/THORIN/docs/tutorials/gam_pipeline.html](https://rjhfmstr.github.io/THORIN/docs/tutorials/gam_pipeline.html)
+- A detailed pipeline for the haplotype-based GAM estimation is available at:
+	[https://rjhfmstr.github.io/THORIN/docs/tutorials/gam_pipeline.html](https://rjhfmstr.github.io/THORIN/docs/tutorials/gam_pipeline.html)
 
 ## License
 
