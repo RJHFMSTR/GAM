@@ -2,7 +2,9 @@
 
 
 
-This repo hosts the code use to estimate Genetic Assortative Mating from inferred parental haplotype data.
+This repo hosts the code use to estimate Genetic Assortative Mating from inferred parental haplotype data. The method is described in our manuscript:
+
+[Hofmeister, R.J. et al. Parental haplotypes reconstruction in up to 440,209 individuals reveals recent assortative mating dynamics. BioRxiv 2025. https://doi.org/10.1101/2025.09.24.678243](https://www.biorxiv.org/content/10.1101/2025.09.24.678243v1)
 
 
 ## Rationale
